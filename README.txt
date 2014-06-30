@@ -1,10 +1,6 @@
-Thanks for checking out my program, and reviewing my application to Twitch.tv!
+A simple spellchecker which attempts to recursively correct your spelling.
 
-To run the appliation:
+To run the application:
 $> ruby app.rb
 
-To run SpellChecker unit tests:
-$> rspec spec
-
-Chris
 
